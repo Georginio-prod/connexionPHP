@@ -30,7 +30,14 @@ form{
 form input{
     margin: 5px 0;
     padding: 5px 5px;
-    outline: O;
+    outline: 0;
     border: 1px solid#000;
     border-radius: 6px;
+}
+form input [type='submit']{
+    background-color: #1f1fc4;
+    border: 0;
+    color: white;
+    margin-top: 15px;
+    padding: 6px 0;
 }
