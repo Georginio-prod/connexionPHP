@@ -11,7 +11,7 @@
 <body>
     <section>
         <h1> Connexion</h1>
-        <form action="#" method="POST">
+        <form action="config.php" method="POST">
             <label>Adress Mail</label>
             <input type="email" name="email">
             <label>Mots de passe</label>

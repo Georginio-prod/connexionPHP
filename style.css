@@ -31,11 +31,12 @@ form input{
     margin: 5px 0;
     padding: 5px 5px;
     outline: 0;
-    border: 1px solid#000;
+    border: 1px solid #ce3131;
     border-radius: 6px;
 }
-form input [type='submit']{
-    background-color: #1f1fc4;
+
+form input[type='submit']{
+    background-color: #17f;
     border: 0;
     color: white;
     margin-top: 15px;

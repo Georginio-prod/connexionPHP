@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10b537de-28f1-4426-b915-eb35572289a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\wamp\bin\php\php7.4.33\php.exe" />
   <component name="ProjectId" id="2YZqolDbf2PJZ96w0K9WPI0UOms" />
   <component name="ProjectViewState">
@@ -47,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700743628097</updated>
       <workItem from="1700743630668" duration="203000" />
-      <workItem from="1700744850418" duration="776000" />
+      <workItem from="1700744850418" duration="3562000" />
     </task>
     <servers />
   </component>
